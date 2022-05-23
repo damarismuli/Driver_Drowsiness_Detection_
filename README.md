@@ -1,4 +1,4 @@
-# Driver_Drowsiness_Detection_
+# Driver_Drowsiness_Detection
 
 # Experimental Design
 Define the question, the metric for success, understanding the context and recording the experimental design.
