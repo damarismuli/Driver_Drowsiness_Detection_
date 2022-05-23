@@ -1,4 +1,3 @@
-# Description
 # Driver_Drowsiness_Detection_
 
 # Experimental Design
